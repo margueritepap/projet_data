@@ -1,0 +1,813 @@
+Code du bâtiment ;Typologie;type d’alimentation ;Surface (m2);Puissance Souscrite (KVA)
+3275;Animation, accueil;électricité usages spécifiques;50;9
+3277;Animation, accueil;électricité usages spécifiques;60;6
+3270;Animation, accueil;électricité usages spécifiques;96;6
+3042;Animation, accueil;électricité usages spécifiques;150;9
+3271;Animation, accueil;électricité usages spécifiques;158;9
+3280;Animation, accueil;électricité usages spécifiques;200;36
+3069;Animation, accueil;électricité usages spécifiques;311,13;6
+9764;Animation, accueil;électricité usages spécifiques;436;37
+4816;Animation, accueil;électricité usages spécifiques;450;36
+3035;Animation, accueil;électricité usages spécifiques;585;42
+3034;Animation, accueil;électricité usages spécifiques;600;36
+3053;Animation, accueil;électricité usages spécifiques;600;42
+3078;Animation, accueil;électricité usages spécifiques;626;36
+3054;Animation, accueil;électricité usages spécifiques;675;9
+6412;Animation, accueil;électricité usages spécifiques;748;49
+3037;Animation, accueil;électricité usages spécifiques;767,67;24
+8252;Animation, accueil;électricité usages spécifiques;778,23;36
+3036;Animation, accueil;électricité usages spécifiques;810;24
+3072;Animation, accueil;électricité usages spécifiques;810;42
+6413;Animation, accueil;électricité usages spécifiques;820;49
+6418;Animation, accueil;électricité usages spécifiques;1116;54
+3045;Animation, accueil;électricité usages spécifiques;1275;42
+3039;Animation, accueil;électricité usages spécifiques;1346;42
+3051;Animation, accueil;électricité usages spécifiques;1350;30
+3044;Animation, accueil;électricité usages spécifiques;1350;43
+9075;Animation, accueil;électricité usages spécifiques;1350;54
+3058;Animation, accueil;électricité usages spécifiques;1357,5;42
+3075;Animation, accueil;électricité usages spécifiques;1470;42
+3311;Animation, accueil;électricité usages spécifiques;1473;37
+6410;Animation, accueil;électricité usages spécifiques;1504;42
+3059;Animation, accueil;électricité usages spécifiques;1550;48
+3032;Animation, accueil;électricité usages spécifiques;1551;91
+3061;Animation, accueil;électricité usages spécifiques;1660;42
+3079;Animation, accueil;électricité usages spécifiques;1696;72
+3065;Animation, accueil;électricité usages spécifiques;1905;48
+3064;Animation, accueil;électricité usages spécifiques;2040;42
+3040;Animation, accueil;électricité usages spécifiques;2250;54
+9766;Animation, accueil;électricité usages spécifiques;2557;130
+3063;Animation, accueil;électricité usages spécifiques;2850;66
+6260;Animation, accueil;électricité usages spécifiques;3600;36
+7776;Animation, accueil;électricité usages spécifiques;15165;12
+3274;Animation, accueil;électricité spécifique et chauffage;147;12
+3038;Animation, accueil;électricité spécifique et chauffage;260;42
+3288;Animation, accueil;électricité spécifique et chauffage;286;42
+3071;Animation, accueil;électricité spécifique et chauffage;322,5;42
+3292;Animation, accueil;électricité spécifique et chauffage;464,05;48
+3031;Animation, accueil;électricité spécifique et chauffage;510;42
+3076;Animation, accueil;électricité spécifique et chauffage;600;42
+6;Animation, accueil;électricité spécifique et chauffage;1370,45;119
+9;Archives;électricité usages spécifiques;2181;90
+8;Archives;électricité usages spécifiques;14183,04;145
+5973;Atelier/Dépôt/Magasin;électricité usages spécifiques;4,75;3
+6503;Atelier/Dépôt/Magasin;électricité usages spécifiques;19,17;3
+6514;Atelier/Dépôt/Magasin;électricité usages spécifiques;38,03;3
+6502;Atelier/Dépôt/Magasin;électricité usages spécifiques;50;6
+6366;Atelier/Dépôt/Magasin;électricité usages spécifiques;97,39;36
+7092;Atelier/Dépôt/Magasin;électricité usages spécifiques;114,05;6
+5282;Atelier/Dépôt/Magasin;électricité usages spécifiques;198,47;3
+4918;Atelier/Dépôt/Magasin;électricité usages spécifiques;434,5;18
+3995;Atelier/Dépôt/Magasin;électricité usages spécifiques;558,22;48
+3999;Atelier/Dépôt/Magasin;électricité usages spécifiques;840;42
+4877;Atelier/Dépôt/Magasin;électricité usages spécifiques;855,6;6
+3994;Atelier/Dépôt/Magasin;électricité usages spécifiques;900;42
+8207;Atelier/Dépôt/Magasin;électricité spécifique et chauffage;40,99;24
+8939;Bain-douche;électricité usages spécifiques;352;36
+3093;Bain-douche;électricité usages spécifiques;400;36
+3095;Bain-douche;électricité usages spécifiques;515,74;18
+3094;Bain-douche;électricité usages spécifiques;600;42
+3090;Bain-douche;électricité usages spécifiques;678;42
+3167;Bibliothèques;électricité usages spécifiques;425;36
+3125;Bibliothèques;électricité usages spécifiques;570;18
+3153;Bibliothèques;électricité usages spécifiques;588;24
+3151;Bibliothèques;électricité usages spécifiques;665;36
+3120;Bibliothèques;électricité usages spécifiques;685,51;48
+3159;Bibliothèques;électricité usages spécifiques;735;24
+3166;Bibliothèques;électricité usages spécifiques;795;42
+3155;Bibliothèques;électricité usages spécifiques;844;24
+3135;Bibliothèques;électricité usages spécifiques;856,94;54
+3126;Bibliothèques;électricité usages spécifiques;1050;41
+3160;Bibliothèques;électricité usages spécifiques;1231,5;42
+3102;Bibliothèques;électricité usages spécifiques;1528;42
+3169;Bibliothèques;électricité usages spécifiques;1731;48
+3177;Bibliothèques;électricité usages spécifiques;1932,21;66
+3112;Bibliothèques;électricité usages spécifiques;4270;260
+3145;Bibliothèques;électricité usages spécifiques;4385;121
+3109;Bibliothèques;électricité usages spécifiques;7079,68;64
+3119;Bibliothèques;électricité spécifique et chauffage;525;42
+3115;Bibliothèques;électricité spécifique et chauffage;852;37
+5942;Bureaux;électricité usages spécifiques;64,5;6
+4129;Bureaux;électricité usages spécifiques;98;9
+9666;Bureaux;électricité usages spécifiques;98;15
+4123;Bureaux;électricité usages spécifiques;117;6
+4126;Bureaux;électricité usages spécifiques;128;12
+10301;Bureaux;électricité usages spécifiques;144;18
+4151;Bureaux;électricité usages spécifiques;145;6
+9746;Bureaux;électricité usages spécifiques;149;18
+5060;Bureaux;électricité usages spécifiques;198;9
+8988;Bureaux;électricité usages spécifiques;215;12
+4127;Bureaux;électricité usages spécifiques;245;30
+4086;Bureaux;électricité usages spécifiques;250;24
+9327;Bureaux;électricité usages spécifiques;250;9
+10226;Bureaux;électricité usages spécifiques;266;18
+9598;Bureaux;électricité usages spécifiques;277;24
+6367;Bureaux;électricité usages spécifiques;292;12
+4083;Bureaux;électricité usages spécifiques;300;42
+5936;Bureaux;électricité usages spécifiques;300;42
+445;Bureaux;électricité usages spécifiques;330;15
+6024;Bureaux;électricité usages spécifiques;335;36
+6416;Bureaux;électricité usages spécifiques;391;9
+6664;Bureaux;électricité usages spécifiques;408;42
+524;Bureaux;électricité usages spécifiques;415,06;49
+303;Bureaux;électricité usages spécifiques;433,1;30
+3872;Bureaux;électricité usages spécifiques;450;36
+8079;Bureaux;électricité usages spécifiques;480;18
+6730;Bureaux;électricité usages spécifiques;576,85;24
+7701;Bureaux;électricité usages spécifiques;614;42
+293;Bureaux;électricité usages spécifiques;615;48
+7754;Bureaux;électricité usages spécifiques;622;36
+3912;Bureaux;électricité usages spécifiques;623;18
+10302;Bureaux;électricité usages spécifiques;715;36
+399;Bureaux;électricité usages spécifiques;715;42
+3853;Bureaux;électricité usages spécifiques;760;37
+217;Bureaux;électricité usages spécifiques;762,32;18
+4938;Bureaux;électricité usages spécifiques;772;190
+221;Bureaux;électricité usages spécifiques;836;42
+7723;Bureaux;électricité usages spécifiques;857;54
+3227;Bureaux;électricité usages spécifiques;900;18
+6349;Bureaux;électricité usages spécifiques;1068,18;36
+10101;Bureaux;électricité usages spécifiques;1325;42
+232;Bureaux;électricité usages spécifiques;1350;36
+3851;Bureaux;électricité usages spécifiques;1829;42
+248;Bureaux;électricité usages spécifiques;1878;102
+298;Bureaux;électricité usages spécifiques;1944,12;42
+5922;Bureaux;électricité usages spécifiques;2021,66;42
+7920;Bureaux;électricité usages spécifiques;3484;100
+8397;Bureaux;électricité usages spécifiques;3620;36
+3895;Bureaux;électricité usages spécifiques;3946;100
+3899;Bureaux;électricité usages spécifiques;4500;123
+7707;Bureaux;électricité usages spécifiques;5420;120
+3867;Bureaux;électricité usages spécifiques;6155;108
+10032;Bureaux;électricité usages spécifiques;6325;400
+3935;Bureaux;électricité usages spécifiques;7168;156
+8461;Bureaux;électricité usages spécifiques;8154;283
+3905;Bureaux;électricité usages spécifiques;8746;216
+420;Bureaux;électricité usages spécifiques;13898;394
+3953;Bureaux;électricité usages spécifiques;19028;260
+7839;Bureaux;électricité usages spécifiques;19065;645
+342;Bureaux;électricité spécifique et chauffage;100;36
+6460;Bureaux;électricité spécifique et chauffage;130;12
+3901;Bureaux;électricité spécifique et chauffage;162;120
+4128;Bureaux;électricité spécifique et chauffage;187;24
+4172;Bureaux;électricité spécifique et chauffage;222;37
+10;Bureaux;électricité spécifique et chauffage;231,55;24
+8027;Bureaux;électricité spécifique et chauffage;287,5;30
+409;Bureaux;électricité spécifique et chauffage;375;42
+218;Bureaux;électricité spécifique et chauffage;400;42
+5921;Bureaux;électricité spécifique et chauffage;504;42
+4085;Bureaux;électricité spécifique et chauffage;636,89;37
+3915;Bureaux;électricité spécifique et chauffage;653;42
+3948;Bureaux;électricité spécifique et chauffage;732;37
+3863;Bureaux;électricité spécifique et chauffage;834;144
+3854;Bureaux;électricité spécifique et chauffage;970;60
+297;Bureaux;électricité spécifique et chauffage;1012,79;42
+3933;Bureaux;électricité spécifique et chauffage;1049;100
+8439;Bureaux;électricité spécifique et chauffage;1654;184
+3978;Bureaux;électricité spécifique et chauffage;2135;84
+3962;Bureaux;électricité spécifique et chauffage;4130;115
+5076;Cimetière;électricité usages spécifiques;250;42
+5071;Cimetière;électricité usages spécifiques;735;9
+3189;Conservatoire;électricité usages spécifiques;1301;42
+3196;Conservatoire;électricité usages spécifiques;1431,09;42
+3195;Conservatoire;électricité usages spécifiques;1546,34;54
+3203;Conservatoire;électricité usages spécifiques;1739;66
+3201;Conservatoire;électricité usages spécifiques;1804;58
+3200;Conservatoire;électricité usages spécifiques;1893;42
+3194;Conservatoire;électricité usages spécifiques;2307;49
+3197;Conservatoire;électricité usages spécifiques;2372;85
+6338;Conservatoire;électricité usages spécifiques;2500;130
+9916;Conservatoire;électricité usages spécifiques;3560;160
+3199;Conservatoire;électricité usages spécifiques;3770;78
+6635;Conservatoire;électricité usages spécifiques;4159,44;130
+6573;Conservatoire;électricité usages spécifiques;4235;296
+3198;Conservatoire;électricité spécifique et chauffage;1458;72
+3193;Conservatoire;électricité spécifique et chauffage;1677,95;42
+3190;Conservatoire;électricité spécifique et chauffage;2501,08;70
+2622;Crèches;électricité usages spécifiques;187;36
+2608;Crèches;électricité usages spécifiques;219;12
+2568;Crèches;électricité usages spécifiques;220;18
+4868;Crèches;électricité usages spécifiques;223;18
+2585;Crèches;électricité usages spécifiques;234;30
+2596;Crèches;électricité usages spécifiques;243;36
+2463;Crèches;électricité usages spécifiques;244;42
+2437;Crèches;électricité usages spécifiques;250;18
+2673;Crèches;électricité usages spécifiques;286,49;30
+2565;Crèches;électricité usages spécifiques;300;30
+1961;Crèches;électricité usages spécifiques;303;42
+2347;Crèches;électricité usages spécifiques;305;42
+2438;Crèches;électricité usages spécifiques;315;42
+2607;Crèches;électricité usages spécifiques;327;0
+2615;Crèches;électricité usages spécifiques;334,5;42
+2434;Crèches;électricité usages spécifiques;342;0
+2634;Crèches;électricité usages spécifiques;343;36
+2640;Crèches;électricité usages spécifiques;357;12
+2605;Crèches;électricité usages spécifiques;369;9
+2335;Crèches;électricité usages spécifiques;375;9
+2613;Crèches;électricité usages spécifiques;382;30
+2344;Crèches;électricité usages spécifiques;390;18
+2398;Crèches;électricité usages spécifiques;400;42
+2198;Crèches;électricité usages spécifiques;400;42
+2549;Crèches;électricité usages spécifiques;421,5;42
+8477;Crèches;électricité usages spécifiques;423;46
+2518;Crèches;électricité usages spécifiques;438;18
+2668;Crèches;électricité usages spécifiques;443;24
+2645;Crèches;électricité usages spécifiques;450;18
+2641;Crèches;électricité usages spécifiques;461,7;18
+2200;Crèches;électricité usages spécifiques;479,49;42
+2265;Crèches;électricité usages spécifiques;480;42
+2670;Crèches;électricité usages spécifiques;484,18;42
+2501;Crèches;électricité usages spécifiques;500;37
+2264;Crèches;électricité usages spécifiques;516;42
+2069;Crèches;électricité usages spécifiques;521,02;36
+2545;Crèches;électricité usages spécifiques;556,5;54
+2663;Crèches;électricité usages spécifiques;576;42
+2612;Crèches;électricité usages spécifiques;580,5;30
+2310;Crèches;électricité usages spécifiques;581;42
+8062;Crèches;électricité usages spécifiques;589,47;42
+1947;Crèches;électricité usages spécifiques;596,65;24
+2030;Crèches;électricité usages spécifiques;606;42
+1944;Crèches;électricité usages spécifiques;618;60
+4867;Crèches;électricité usages spécifiques;621;48
+2619;Crèches;électricité usages spécifiques;633;42
+2660;Crèches;électricité usages spécifiques;634;42
+2190;Crèches;électricité usages spécifiques;636;42
+2276;Crèches;électricité usages spécifiques;645;36
+2196;Crèches;électricité usages spécifiques;650;36
+6322;Crèches;électricité usages spécifiques;661;72
+2091;Crèches;électricité usages spécifiques;663;72
+2008;Crèches;électricité usages spécifiques;688,5;42
+2061;Crèches;électricité usages spécifiques;710;48
+2636;Crèches;électricité usages spécifiques;715,5;12
+1959;Crèches;électricité usages spécifiques;725,08;42
+2033;Crèches;électricité usages spécifiques;733;54
+2334;Crèches;électricité usages spécifiques;735;24
+2134;Crèches;électricité usages spécifiques;737;36
+2041;Crèches;électricité usages spécifiques;747;48
+2088;Crèches;électricité usages spécifiques;750;42
+1979;Crèches;électricité usages spécifiques;754;49
+2356;Crèches;électricité usages spécifiques;762;36
+2256;Crèches;électricité usages spécifiques;764,63;54
+2003;Crèches;électricité usages spécifiques;770;12
+2146;Crèches;électricité usages spécifiques;775;42
+2255;Crèches;électricité usages spécifiques;780;36
+2002;Crèches;électricité usages spécifiques;786,86;42
+1969;Crèches;électricité usages spécifiques;791,84;42
+1948;Crèches;électricité usages spécifiques;795;42
+2163;Crèches;électricité usages spécifiques;806;42
+2000;Crèches;électricité usages spécifiques;808;42
+2257;Crèches;électricité usages spécifiques;811,5;42
+8370;Crèches;électricité usages spécifiques;812;48
+2277;Crèches;électricité usages spécifiques;818;42
+2221;Crèches;électricité usages spécifiques;819;60
+2064;Crèches;électricité usages spécifiques;820;48
+2104;Crèches;électricité usages spécifiques;828;42
+1995;Crèches;électricité usages spécifiques;835;54
+4894;Crèches;électricité usages spécifiques;839;36
+2445;Crèches;électricité usages spécifiques;839;9
+2331;Crèches;électricité usages spécifiques;844;45
+2119;Crèches;électricité usages spécifiques;846;54
+2249;Crèches;électricité usages spécifiques;854;48
+8003;Crèches;électricité usages spécifiques;863;42
+2288;Crèches;électricité usages spécifiques;864;48
+2287;Crèches;électricité usages spécifiques;870;42
+2044;Crèches;électricité usages spécifiques;871;36
+1958;Crèches;électricité usages spécifiques;872;42
+2038;Crèches;électricité usages spécifiques;878;48
+2121;Crèches;électricité usages spécifiques;883;42
+2182;Crèches;électricité usages spécifiques;885;48
+2101;Crèches;électricité usages spécifiques;885,65;42
+2075;Crèches;électricité usages spécifiques;890;42
+2098;Crèches;électricité usages spécifiques;890,01;42
+2252;Crèches;électricité usages spécifiques;893;54
+2325;Crèches;électricité usages spécifiques;895;49
+2199;Crèches;électricité usages spécifiques;907,5;18
+1952;Crèches;électricité usages spécifiques;907,5;60
+2186;Crèches;électricité usages spécifiques;915;42
+2087;Crèches;électricité usages spécifiques;920;48
+1999;Crèches;électricité usages spécifiques;920;48
+2267;Crèches;électricité usages spécifiques;929,82;48
+2052;Crèches;électricité usages spécifiques;930;36
+2278;Crèches;électricité usages spécifiques;930;48
+2026;Crèches;électricité usages spécifiques;935,05;48
+2060;Crèches;électricité usages spécifiques;935,7;42
+2246;Crèches;électricité usages spécifiques;937,44;42
+2283;Crèches;électricité usages spécifiques;939,08;60
+2250;Crèches;électricité usages spécifiques;948;42
+2020;Crèches;électricité usages spécifiques;952,5;42
+2216;Crèches;électricité usages spécifiques;955;54
+1960;Crèches;électricité usages spécifiques;972;42
+2244;Crèches;électricité usages spécifiques;989,8;42
+2150;Crèches;électricité usages spécifiques;996;60
+2676;Crèches;électricité usages spécifiques;1000;9
+4847;Crèches;électricité usages spécifiques;1000;42
+2661;Crèches;électricité usages spécifiques;1000;42
+2067;Crèches;électricité usages spécifiques;1000;42
+2349;Crèches;électricité usages spécifiques;1000;60
+4895;Crèches;électricité usages spécifiques;1000;72
+8478;Crèches;électricité usages spécifiques;1000;48
+8002;Crèches;électricité usages spécifiques;1000;42
+8479;Crèches;électricité usages spécifiques;1000;48
+8039;Crèches;électricité usages spécifiques;1000;54
+5977;Crèches;électricité usages spécifiques;1000;54
+2166;Crèches;électricité usages spécifiques;1000;40
+6159;Crèches;électricité usages spécifiques;1000;48
+8034;Crèches;électricité usages spécifiques;1000;48
+2282;Crèches;électricité usages spécifiques;1002;60
+1998;Crèches;électricité usages spécifiques;1006,5;48
+2099;Crèches;électricité usages spécifiques;1020;42
+2243;Crèches;électricité usages spécifiques;1020;84
+4904;Crèches;électricité usages spécifiques;1033;57
+2197;Crèches;électricité usages spécifiques;1049,7;42
+2054;Crèches;électricité usages spécifiques;1050;54
+2245;Crèches;électricité usages spécifiques;1050;42
+2160;Crèches;électricité usages spécifiques;1050;60
+1943;Crèches;électricité usages spécifiques;1054;67
+2167;Crèches;électricité usages spécifiques;1055;42
+10186;Crèches;électricité usages spécifiques;1058;66
+2242;Crèches;électricité usages spécifiques;1059;48
+2284;Crèches;électricité usages spécifiques;1062;54
+8074;Crèches;électricité usages spécifiques;1069,8;54
+2274;Crèches;électricité usages spécifiques;1076;42
+8037;Crèches;électricité usages spécifiques;1076,01;60
+2248;Crèches;électricité usages spécifiques;1076,61;48
+1984;Crèches;électricité usages spécifiques;1095;42
+1949;Crèches;électricité usages spécifiques;1107;49
+6018;Crèches;électricité usages spécifiques;1111;42
+1974;Crèches;électricité usages spécifiques;1114,57;48
+2076;Crèches;électricité usages spécifiques;1116;54
+1940;Crèches;électricité usages spécifiques;1120;48
+4873;Crèches;électricité usages spécifiques;1128,39;48
+2266;Crèches;électricité usages spécifiques;1135,5;42
+2269;Crèches;électricité usages spécifiques;1135,6;42
+2241;Crèches;électricité usages spécifiques;1137;54
+2050;Crèches;électricité usages spécifiques;1145;42
+2078;Crèches;électricité usages spécifiques;1150,5;42
+2326;Crèches;électricité usages spécifiques;1154;42
+2145;Crèches;électricité usages spécifiques;1158;54
+8480;Crèches;électricité usages spécifiques;1161,05;37
+1957;Crèches;électricité usages spécifiques;1163;54
+6125;Crèches;électricité usages spécifiques;1169;48
+2111;Crèches;électricité usages spécifiques;1171;60
+4903;Crèches;électricité usages spécifiques;1180;48
+5306;Crèches;électricité usages spécifiques;1181;42
+2237;Crèches;électricité usages spécifiques;1209;48
+2025;Crèches;électricité usages spécifiques;1215;54
+1970;Crèches;électricité usages spécifiques;1216;60
+6011;Crèches;électricité usages spécifiques;1216;48
+2049;Crèches;électricité usages spécifiques;1220;65
+2213;Crèches;électricité usages spécifiques;1230;72
+2021;Crèches;électricité usages spécifiques;1230;48
+2303;Crèches;électricité usages spécifiques;1231,5;60
+2226;Crèches;électricité usages spécifiques;1233,04;54
+2192;Crèches;électricité usages spécifiques;1237,5;42
+2125;Crèches;électricité usages spécifiques;1240,5;49
+2311;Crèches;électricité usages spécifiques;1248;80
+1989;Crèches;électricité usages spécifiques;1264;72
+2065;Crèches;électricité usages spécifiques;1266;37
+1990;Crèches;électricité usages spécifiques;1275;42
+2095;Crèches;électricité usages spécifiques;1280;48
+2268;Crèches;électricité usages spécifiques;1284,79;48
+2090;Crèches;électricité usages spécifiques;1312;42
+1967;Crèches;électricité usages spécifiques;1312,5;48
+2019;Crèches;électricité usages spécifiques;1335;42
+2301;Crèches;électricité usages spécifiques;1360;42
+1973;Crèches;électricité usages spécifiques;1365;54
+2234;Crèches;électricité usages spécifiques;1381,5;36
+2114;Crèches;électricité usages spécifiques;1389;60
+2132;Crèches;électricité usages spécifiques;1425;48
+2235;Crèches;électricité usages spécifiques;1485;54
+2156;Crèches;électricité usages spécifiques;1567,5;60
+2082;Crèches;électricité usages spécifiques;1575;48
+1987;Crèches;électricité usages spécifiques;1576,8;54
+2309;Crèches;électricité usages spécifiques;1654,5;42
+2230;Crèches;électricité usages spécifiques;1794;48
+2140;Crèches;électricité usages spécifiques;1809;66
+8311;Crèches;électricité usages spécifiques;1863;90
+10016;Crèches;électricité usages spécifiques;7336,24;54
+2415;Crèches;électricité spécifique et chauffage;104;24
+2664;Crèches;électricité spécifique et chauffage;164;42
+2667;Crèches;électricité spécifique et chauffage;165;24
+2578;Crèches;électricité spécifique et chauffage;180;36
+2487;Crèches;électricité spécifique et chauffage;181;24
+2397;Crèches;électricité spécifique et chauffage;200;48
+2361;Crèches;électricité spécifique et chauffage;210;24
+2599;Crèches;électricité spécifique et chauffage;212;54
+2460;Crèches;électricité spécifique et chauffage;222;24
+4851;Crèches;électricité spécifique et chauffage;227;36
+2490;Crèches;électricité spécifique et chauffage;227;42
+2584;Crèches;électricité spécifique et chauffage;232;36
+2559;Crèches;électricité spécifique et chauffage;240;18
+2523;Crèches;électricité spécifique et chauffage;247,5;42
+2542;Crèches;électricité spécifique et chauffage;250;36
+2548;Crèches;électricité spécifique et chauffage;265;42
+2470;Crèches;électricité spécifique et chauffage;270;36
+2665;Crèches;électricité spécifique et chauffage;270;49
+2404;Crèches;électricité spécifique et chauffage;270;61
+2464;Crèches;électricité spécifique et chauffage;281,45;42
+6427;Crèches;électricité spécifique et chauffage;286;49
+2650;Crèches;électricité spécifique et chauffage;287;42
+2510;Crèches;électricité spécifique et chauffage;298,8;42
+2553;Crèches;électricité spécifique et chauffage;300;48
+2666;Crèches;électricité spécifique et chauffage;309,36;42
+2575;Crèches;électricité spécifique et chauffage;346;49
+2656;Crèches;électricité spécifique et chauffage;375;42
+2659;Crèches;électricité spécifique et chauffage;397,5;54
+2042;Crèches;électricité spécifique et chauffage;410;42
+2133;Crèches;électricité spécifique et chauffage;474;36
+2032;Crèches;électricité spécifique et chauffage;498;54
+2285;Crèches;électricité spécifique et chauffage;520;72
+2206;Crèches;électricité spécifique et chauffage;520;48
+2614;Crèches;électricité spécifique et chauffage;585;42
+2077;Crèches;électricité spécifique et chauffage;630;90
+2618;Crèches;électricité spécifique et chauffage;652;90
+2143;Crèches;électricité spécifique et chauffage;657,24;42
+2031;Crèches;électricité spécifique et chauffage;695,71;66
+2120;Crèches;électricité spécifique et chauffage;738;48
+2280;Crèches;électricité spécifique et chauffage;743,4;78
+2139;Crèches;électricité spécifique et chauffage;845,63;85
+2138;Crèches;électricité spécifique et chauffage;906;58
+2081;Crèches;électricité spécifique et chauffage;913,71;37
+2085;Crèches;électricité spécifique et chauffage;924;85
+2215;Crèches;électricité spécifique et chauffage;924,48;72
+2254;Crèches;électricité spécifique et chauffage;965,9;106
+2094;Crèches;électricité spécifique et chauffage;970,5;84
+2428;Crèches;électricité spécifique et chauffage;1000;42
+7867;Crèches;électricité spécifique et chauffage;1000;42
+2128;Crèches;électricité spécifique et chauffage;1017;52
+2289;Crèches;électricité spécifique et chauffage;1019,3;54
+2148;Crèches;électricité spécifique et chauffage;1022;54
+2027;Crèches;électricité spécifique et chauffage;1025;48
+2068;Crèches;électricité spécifique et chauffage;1042,5;42
+2053;Crèches;électricité spécifique et chauffage;1050;102
+2191;Crèches;électricité spécifique et chauffage;1053;42
+2149;Crèches;électricité spécifique et chauffage;1062;63
+2110;Crèches;électricité spécifique et chauffage;1065;84
+2001;Crèches;électricité spécifique et chauffage;1093;96
+2056;Crèches;électricité spécifique et chauffage;1095;72
+2055;Crèches;électricité spécifique et chauffage;1112,27;84
+2281;Crèches;électricité spécifique et chauffage;1124,75;45
+2059;Crèches;électricité spécifique et chauffage;1132,5;96
+2204;Crèches;électricité spécifique et chauffage;1140,41;62
+2157;Crèches;électricité spécifique et chauffage;1200;54
+2219;Crèches;électricité spécifique et chauffage;1219;102
+2024;Crèches;électricité spécifique et chauffage;1245;90
+1941;Crèches;électricité spécifique et chauffage;1251;90
+2211;Crèches;électricité spécifique et chauffage;1266;90
+2675;Crèches;électricité spécifique et chauffage;1269;78
+2174;Crèches;électricité spécifique et chauffage;1317;84
+1997;Crèches;électricité spécifique et chauffage;1330,5;96
+2158;Crèches;électricité spécifique et chauffage;1335;90
+1951;Crèches;électricité spécifique et chauffage;1353;84
+2007;Crèches;électricité spécifique et chauffage;1605;78
+2286;Crèches;électricité spécifique et chauffage;1650;54
+532;Ecoles;électricité usages spécifiques;500;24
+534;Ecoles;électricité usages spécifiques;800;36
+5133;Ecoles;électricité usages spécifiques;800;72
+703;Ecoles;électricité usages spécifiques;850;54
+809;Ecoles;électricité usages spécifiques;858;42
+9794;Ecoles;électricité usages spécifiques;886,95;49
+715;Ecoles;électricité usages spécifiques;938,981802;42
+739;Ecoles;électricité usages spécifiques;944;42
+808;Ecoles;électricité usages spécifiques;981,3;18
+589;Ecoles;électricité usages spécifiques;1090,094445;42
+6201;Ecoles;électricité usages spécifiques;1104;42
+1161;Ecoles;électricité usages spécifiques;1116,950098;6
+839;Ecoles;électricité usages spécifiques;1178,630803;9
+684;Ecoles;électricité usages spécifiques;1214,848238;30
+787;Ecoles;électricité usages spécifiques;1220;42
+1064;Ecoles;électricité usages spécifiques;1242,959038;54
+1075;Ecoles;électricité usages spécifiques;1278;9
+797;Ecoles;électricité usages spécifiques;1335;54
+766;Ecoles;électricité usages spécifiques;1341,075735;42
+538;Ecoles;électricité usages spécifiques;1343,91714;42
+736;Ecoles;électricité usages spécifiques;1344,23;42
+729;Ecoles;électricité usages spécifiques;1372,193707;36
+877;Ecoles;électricité usages spécifiques;1426;78
+799;Ecoles;électricité usages spécifiques;1436,102851;56
+952;Ecoles;électricité usages spécifiques;1441;36
+705;Ecoles;électricité usages spécifiques;1460,7795;42
+910;Ecoles;électricité usages spécifiques;1461,28222;6
+738;Ecoles;électricité usages spécifiques;1466;42
+648;Ecoles;électricité usages spécifiques;1494,672079;9
+1184;Ecoles;électricité usages spécifiques;1500;60
+585;Ecoles;électricité usages spécifiques;1526,38;36
+658;Ecoles;électricité usages spécifiques;1527,706838;42
+708;Ecoles;électricité usages spécifiques;1534,416251;36
+850;Ecoles;électricité usages spécifiques;1560;42
+1111;Ecoles;électricité usages spécifiques;1572,913679;37
+554;Ecoles;électricité usages spécifiques;1573;42
+945;Ecoles;électricité usages spécifiques;1573,834353;36
+830;Ecoles;électricité usages spécifiques;1580;42
+1211;Ecoles;électricité usages spécifiques;1600;42
+960;Ecoles;électricité usages spécifiques;1617,09501;60
+700;Ecoles;électricité usages spécifiques;1640,598597;42
+1016;Ecoles;électricité usages spécifiques;1667,49358;42
+1069;Ecoles;électricité usages spécifiques;1673,53;64
+855;Ecoles;électricité usages spécifiques;1691,078979;6
+583;Ecoles;électricité usages spécifiques;1695;42
+911;Ecoles;électricité usages spécifiques;1699,849426;42
+895;Ecoles;électricité usages spécifiques;1717,756934;49
+615;Ecoles;électricité usages spécifiques;1722,13;39
+1045;Ecoles;électricité usages spécifiques;1729,5;49
+857;Ecoles;électricité usages spécifiques;1743,787934;39
+954;Ecoles;électricité usages spécifiques;1766,528481;42
+580;Ecoles;électricité usages spécifiques;1772,033343;42
+539;Ecoles;électricité usages spécifiques;1786;42
+6196;Ecoles;électricité usages spécifiques;1800;42
+1205;Ecoles;électricité usages spécifiques;1800;63
+707;Ecoles;électricité usages spécifiques;1815;42
+1213;Ecoles;électricité usages spécifiques;1828,937277;42
+630;Ecoles;électricité usages spécifiques;1829,970847;42
+789;Ecoles;électricité usages spécifiques;1836,184954;48
+704;Ecoles;électricité usages spécifiques;1849;42
+692;Ecoles;électricité usages spécifiques;1853,028857;78
+1066;Ecoles;électricité usages spécifiques;1854;42
+996;Ecoles;électricité usages spécifiques;1858,020336;36
+5193;Ecoles;électricité usages spécifiques;1861;38
+617;Ecoles;électricité usages spécifiques;1864,80906;42
+796;Ecoles;électricité usages spécifiques;1873,197199;6
+1054;Ecoles;électricité usages spécifiques;1893,257698;42
+803;Ecoles;électricité usages spécifiques;1904,655472;48
+674;Ecoles;électricité usages spécifiques;1918,271831;42
+1011;Ecoles;électricité usages spécifiques;1928;6
+806;Ecoles;électricité usages spécifiques;1932;42
+9324;Ecoles;électricité usages spécifiques;1937;48
+620;Ecoles;électricité usages spécifiques;1938,2;42
+771;Ecoles;électricité usages spécifiques;1968,143145;42
+1208;Ecoles;électricité usages spécifiques;1989,93;42
+5135;Ecoles;électricité usages spécifiques;2000;42
+1146;Ecoles;électricité usages spécifiques;2000;54
+659;Ecoles;électricité usages spécifiques;2003;42
+1181;Ecoles;électricité usages spécifiques;2005,47;42
+888;Ecoles;électricité usages spécifiques;2027,9;42
+1109;Ecoles;électricité usages spécifiques;2058,240323;36
+719;Ecoles;électricité usages spécifiques;2075,04;48
+594;Ecoles;électricité usages spécifiques;2109;48
+876;Ecoles;électricité usages spécifiques;2136,430905;36
+621;Ecoles;électricité usages spécifiques;2153,314451;42
+5143;Ecoles;électricité usages spécifiques;2160;51
+1081;Ecoles;électricité usages spécifiques;2161;42
+1021;Ecoles;électricité usages spécifiques;2180,26;24
+1214;Ecoles;électricité usages spécifiques;2207,52;70
+5132;Ecoles;électricité usages spécifiques;2217,85;42
+1185;Ecoles;électricité usages spécifiques;2240,802976;48
+558;Ecoles;électricité usages spécifiques;2260;72
+823;Ecoles;électricité usages spécifiques;2260,528714;69
+549;Ecoles;électricité usages spécifiques;2293,437596;42
+822;Ecoles;électricité usages spécifiques;2310;66
+1001;Ecoles;électricité usages spécifiques;2372,069919;42
+1015;Ecoles;électricité usages spécifiques;2377,132891;42
+1014;Ecoles;électricité usages spécifiques;2398,257461;48
+1113;Ecoles;électricité usages spécifiques;2404,084752;42
+650;Ecoles;électricité usages spécifiques;2406,511027;36
+870;Ecoles;électricité usages spécifiques;2413,660581;48
+545;Ecoles;électricité usages spécifiques;2423,66579;35
+1096;Ecoles;électricité usages spécifiques;2469,382999;54
+1179;Ecoles;électricité usages spécifiques;2503,555568;54
+1138;Ecoles;électricité usages spécifiques;2551,248307;72
+1197;Ecoles;électricité usages spécifiques;2589;42
+699;Ecoles;électricité usages spécifiques;2611,989987;42
+1219;Ecoles;électricité usages spécifiques;2615,422222;42
+1201;Ecoles;électricité usages spécifiques;2633;60
+1043;Ecoles;électricité usages spécifiques;2653,850883;49
+909;Ecoles;électricité usages spécifiques;2700,003791;42
+1061;Ecoles;électricité usages spécifiques;2729,152568;54
+1221;Ecoles;électricité usages spécifiques;2743;42
+991;Ecoles;électricité usages spécifiques;2749,71;42
+1183;Ecoles;électricité usages spécifiques;2750;49
+1118;Ecoles;électricité usages spécifiques;2797,183621;42
+906;Ecoles;électricité usages spécifiques;2813,340483;66
+772;Ecoles;électricité usages spécifiques;2891,607605;59
+1216;Ecoles;électricité usages spécifiques;2988,304931;42
+971;Ecoles;électricité usages spécifiques;3020,533286;42
+1198;Ecoles;électricité usages spécifiques;3061,511813;42
+1097;Ecoles;électricité usages spécifiques;3114,075656;42
+862;Ecoles;électricité usages spécifiques;3159;96
+1151;Ecoles;électricité usages spécifiques;3190,976351;36
+1079;Ecoles;électricité usages spécifiques;3232;9
+1052;Ecoles;électricité usages spécifiques;3334,711541;57
+1025;Ecoles;électricité usages spécifiques;3991,190132;42
+1114;Ecoles;électricité usages spécifiques;4183;6
+5191;Ecoles;électricité usages spécifiques;4815;57
+1191;Ecoles;électricité spécifique et chauffage;897,4147267;61
+976;Ecoles;électricité spécifique et chauffage;900;84
+611;Ecoles;électricité spécifique et chauffage;975;37
+691;Ecoles;électricité spécifique et chauffage;1016;42
+669;Ecoles;électricité spécifique et chauffage;1065;60
+622;Ecoles;électricité spécifique et chauffage;1423,248559;130
+569;Ecoles;électricité spécifique et chauffage;1591;37
+884;Ecoles;électricité spécifique et chauffage;1646;84
+570;Ecoles;électricité spécifique et chauffage;1646,316317;95
+751;Ecoles;électricité spécifique et chauffage;1662,58;97
+535;Ecoles;électricité spécifique et chauffage;1870;60
+5130;Ecoles;électricité spécifique et chauffage;2000;54
+1212;Ecoles;électricité spécifique et chauffage;2467,4;127
+6550;Espace vert;électricité usages spécifiques;700;119
+7792;Espace vert;électricité spécifique et chauffage;333;36
+5264;Garage;électricité usages spécifiques;1260,08;120
+4609;Garage;électricité usages spécifiques;2114;115
+4180;Garage;électricité usages spécifiques;11700;430
+4910;Locaux sociaux;électricité usages spécifiques;85;12
+9130;Locaux sociaux;électricité usages spécifiques;86;18
+4167;Locaux sociaux;électricité usages spécifiques;109;18
+8005;Locaux sociaux;électricité usages spécifiques;120;6
+4155;Locaux sociaux;électricité usages spécifiques;127,21;42
+6339;Locaux sociaux;électricité usages spécifiques;138;9
+6983;Locaux sociaux;électricité usages spécifiques;154;6
+6200;Locaux sociaux;électricité usages spécifiques;159;6
+7102;Locaux sociaux;électricité usages spécifiques;165;36
+6197;Locaux sociaux;électricité usages spécifiques;180;6
+5125;Locaux sociaux;électricité usages spécifiques;197;36
+5145;Locaux sociaux;électricité usages spécifiques;202,94;36
+5293;Locaux sociaux;électricité usages spécifiques;230;36
+5290;Locaux sociaux;électricité usages spécifiques;230;36
+6893;Locaux sociaux;électricité usages spécifiques;306;36
+4157;Locaux sociaux;électricité usages spécifiques;408;49
+6977;Locaux sociaux;électricité usages spécifiques;551,56;36
+6126;Locaux sociaux;électricité usages spécifiques;822;42
+4160;Locaux sociaux;électricité usages spécifiques;1865;54
+4887;Locaux sociaux;électricité usages spécifiques;4964;132
+6195;Locaux sociaux;électricité spécifique et chauffage;84;30
+4166;Locaux sociaux;électricité spécifique et chauffage;134;12
+5213;Locaux sociaux;électricité spécifique et chauffage;146;36
+5233;Locaux sociaux;électricité spécifique et chauffage;150;36
+5256;Locaux sociaux;électricité spécifique et chauffage;182,09;30
+5234;Locaux sociaux;électricité spécifique et chauffage;187;30
+5230;Locaux sociaux;électricité spécifique et chauffage;190;36
+6870;Locaux sociaux;électricité spécifique et chauffage;209;42
+4161;Locaux sociaux;électricité spécifique et chauffage;250;36
+7528;Logements;électricité usages spécifiques;57;6
+6765;Logements;électricité usages spécifiques;76;6
+6785;Logements;électricité usages spécifiques;77;9
+6924;Logements;électricité usages spécifiques;107;6
+6915;Logements;électricité usages spécifiques;136;6
+6986;Logements;électricité usages spécifiques;145;6
+7605;Logements;électricité usages spécifiques;215,15;6
+6883;Logements;électricité usages spécifiques;233;9
+6918;Logements;électricité spécifique et chauffage;108;12
+7664;Logements;électricité spécifique et chauffage;137,48;9
+6908;Logements;électricité spécifique et chauffage;1241;18
+7;Lycées et enseignement autre;électricité usages spécifiques;300;30
+423;Lycées et enseignement autre;électricité usages spécifiques;1072;42
+1229;Lycées et enseignement autre;électricité usages spécifiques;1110;57
+1224;Lycées et enseignement autre;électricité usages spécifiques;3220;42
+4049;Mairies & Tribunaux;électricité usages spécifiques;1500;6
+3843;Mairies & Tribunaux;électricité usages spécifiques;41671;760
+4057;Marché couvert;électricité usages spécifiques;10116;9
+361;Médico-social;électricité usages spécifiques;80;12
+310;Médico-social;électricité usages spécifiques;85;24
+395;Médico-social;électricité usages spécifiques;130;15
+316;Médico-social;électricité usages spécifiques;145;12
+279;Médico-social;électricité usages spécifiques;150;18
+364;Médico-social;électricité usages spécifiques;150;24
+371;Médico-social;électricité usages spécifiques;150;9
+8951;Médico-social;électricité usages spécifiques;153;18
+401;Médico-social;électricité usages spécifiques;160;6
+366;Médico-social;électricité usages spécifiques;175;9
+8952;Médico-social;électricité usages spécifiques;180;24
+9196;Médico-social;électricité usages spécifiques;192;36
+398;Médico-social;électricité usages spécifiques;200;18
+358;Médico-social;électricité usages spécifiques;205;24
+350;Médico-social;électricité usages spécifiques;220;9
+343;Médico-social;électricité usages spécifiques;221,71;9
+389;Médico-social;électricité usages spécifiques;225;18
+339;Médico-social;électricité usages spécifiques;230;18
+280;Médico-social;électricité usages spécifiques;340;18
+263;Médico-social;électricité usages spécifiques;340;42
+258;Médico-social;électricité usages spécifiques;373;18
+272;Médico-social;électricité usages spécifiques;376,07;36
+276;Médico-social;électricité usages spécifiques;377,13;18
+268;Médico-social;électricité usages spécifiques;397,44;18
+275;Médico-social;électricité usages spécifiques;503;18
+8955;Médico-social;électricité usages spécifiques;523;30
+269;Médico-social;électricité usages spécifiques;540;18
+251;Médico-social;électricité usages spécifiques;548,12;42
+265;Médico-social;électricité usages spécifiques;810;37
+259;Médico-social;électricité usages spécifiques;938,53;36
+262;Médico-social;électricité usages spécifiques;3337,5;121
+278;Médico-social;électricité usages spécifiques;17105;24
+337;Médico-social;électricité spécifique et chauffage;150;24
+347;Médico-social;électricité spécifique et chauffage;150;36
+381;Médico-social;électricité spécifique et chauffage;200;36
+3840;Médico-social;électricité spécifique et chauffage;230;49
+325;Médico-social;électricité spécifique et chauffage;255,74;24
+8513;Médico-social;électricité spécifique et chauffage;552;42
+250;Médico-social;électricité spécifique et chauffage;560;37
+3222;Musées;électricité spécifique et chauffage;64;18
+3013;Piscines;électricité usages spécifiques;846;102
+2990;Piscines;électricité usages spécifiques;1200;99
+3015;Piscines;électricité usages spécifiques;1303;120
+2993;Piscines;électricité usages spécifiques;1535;90
+3001;Piscines;électricité usages spécifiques;1617;115
+3005;Piscines;électricité usages spécifiques;1881;129
+2991;Piscines;électricité usages spécifiques;2200;260
+3010;Piscines;électricité usages spécifiques;2278;78
+4801;Piscines;électricité usages spécifiques;2650;210
+2994;Piscines;électricité usages spécifiques;2878;144
+3009;Piscines;électricité spécifique et chauffage;1040;443
+3022;Piscines;électricité spécifique et chauffage;1420,53;263
+3253;Salle de spectacle;électricité usages spécifiques;1070;70
+6492;Salle de spectacle;électricité usages spécifiques;1745;44
+5943;Salle de spectacle;électricité spécifique et chauffage;156;18
+8178;Sport en salle;électricité usages spécifiques;380,78;48
+2862;Sport en salle;électricité usages spécifiques;394;42
+2931;Sport en salle;électricité usages spécifiques;550;24
+2933;Sport en salle;électricité usages spécifiques;637;36
+2968;Sport en salle;électricité usages spécifiques;670;36
+2937;Sport en salle;électricité usages spécifiques;699;24
+2947;Sport en salle;électricité usages spécifiques;800;251
+2969;Sport en salle;électricité usages spécifiques;856;36
+2920;Sport en salle;électricité usages spécifiques;868;42
+2875;Sport en salle;électricité usages spécifiques;890;24
+6265;Sport en salle;électricité usages spécifiques;910;42
+2849;Sport en salle;électricité usages spécifiques;928;24
+2923;Sport en salle;électricité usages spécifiques;950;42
+2970;Sport en salle;électricité usages spécifiques;968;36
+2865;Sport en salle;électricité usages spécifiques;998,4;42
+2976;Sport en salle;électricité usages spécifiques;1034;49
+2884;Sport en salle;électricité usages spécifiques;1046;42
+2915;Sport en salle;électricité usages spécifiques;1079;42
+2962;Sport en salle;électricité usages spécifiques;1080;42
+2939;Sport en salle;électricité usages spécifiques;1090,51;42
+2848;Sport en salle;électricité usages spécifiques;1127;30
+2893;Sport en salle;électricité usages spécifiques;1134;42
+2853;Sport en salle;électricité usages spécifiques;1150;42
+2883;Sport en salle;électricité usages spécifiques;1157,82;42
+2867;Sport en salle;électricité usages spécifiques;1164;42
+2980;Sport en salle;électricité usages spécifiques;1166;48
+2922;Sport en salle;électricité usages spécifiques;1166;37
+2905;Sport en salle;électricité usages spécifiques;1171;49
+2882;Sport en salle;électricité usages spécifiques;1245;48
+2966;Sport en salle;électricité usages spécifiques;1368;49
+4746;Sport en salle;électricité usages spécifiques;1494;99
+2918;Sport en salle;électricité usages spécifiques;1500;42
+2879;Sport en salle;électricité usages spécifiques;1513;55
+2891;Sport en salle;électricité usages spécifiques;1520;42
+2977;Sport en salle;électricité usages spécifiques;1576;60
+2942;Sport en salle;électricité usages spécifiques;1634;6
+2917;Sport en salle;électricité usages spécifiques;1700;42
+2869;Sport en salle;électricité usages spécifiques;1715;9
+2854;Sport en salle;électricité usages spécifiques;1751;48
+2904;Sport en salle;électricité usages spécifiques;1796;42
+2940;Sport en salle;électricité usages spécifiques;1871;30
+2946;Sport en salle;électricité usages spécifiques;1970;132
+2895;Sport en salle;électricité usages spécifiques;2010;42
+2845;Sport en salle;électricité usages spécifiques;2183;90
+4740;Sport en salle;électricité usages spécifiques;2372;42
+4713;Sport en salle;électricité usages spécifiques;2381;48
+2899;Sport en salle;électricité usages spécifiques;2825;42
+2916;Sport en salle;électricité usages spécifiques;3984;204
+2900;Sport en salle;électricité usages spécifiques;4300;46
+4846;Sport en salle;électricité usages spécifiques;4622;156
+4764;Sport en salle;électricité usages spécifiques;6438;190
+4732;Sport en salle;électricité usages spécifiques;7022;120
+4812;Sport en salle;électricité usages spécifiques;11033;394
+2965;Sport en salle;électricité spécifique et chauffage;400;42
+2846;Sport en salle;électricité spécifique et chauffage;524;54
+2967;Sport en salle;électricité spécifique et chauffage;598;82
+2982;Sport en salle;électricité spécifique et chauffage;610;37
+2975;Sport en salle;électricité spécifique et chauffage;790;48
+2971;Sport en salle;électricité spécifique et chauffage;847;48
+2909;Sport en salle;électricité spécifique et chauffage;1046;155
+2964;Sport en salle;électricité spécifique et chauffage;1404;37
+2978;Sport en salle;électricité spécifique et chauffage;1427;75
+2816;Sport en salle;électricité spécifique et chauffage;1436;108
+2856;Sport en salle;électricité spécifique et chauffage;1446;48
+2907;Sport en salle;électricité spécifique et chauffage;1653;66
+2927;Sport en salle;électricité spécifique et chauffage;1700;120
+2943;Sport en salle;électricité spécifique et chauffage;1976;132
+4715;Sport en salle;électricité spécifique et chauffage;13340;42
+2804;Sports plein air;électricité usages spécifiques;28,36;12
+2795;Sports plein air;électricité usages spécifiques;29,28;6
+2802;Sports plein air;électricité usages spécifiques;44,9;9
+2794;Sports plein air;électricité usages spécifiques;46,65;24
+2759;Sports plein air;électricité usages spécifiques;93;9
+2704;Sports plein air;électricité usages spécifiques;140,15;12
+4680;Sports plein air;électricité usages spécifiques;143,96;66
+2761;Sports plein air;électricité usages spécifiques;146,03;36
+2756;Sports plein air;électricité usages spécifiques;171;12
+2744;Sports plein air;électricité usages spécifiques;183;42
+2781;Sports plein air;électricité usages spécifiques;250;24
+2722;Sports plein air;électricité usages spécifiques;437,08;36
+4703;Sports plein air;électricité usages spécifiques;688,14;118
+2823;Sports plein air;électricité usages spécifiques;882;72
+4689;Sports plein air;électricité usages spécifiques;1091,18;12
+2824;Sports plein air;électricité usages spécifiques;3738;120
+4833;Sports plein air;électricité usages spécifiques;9697,75;30
+4699;Sports plein air;électricité usages spécifiques;15257,41;130
+2833;Sports plein air;électricité usages spécifiques;70295;1290
+2724;Sports plein air;électricité spécifique et chauffage;29;24
+2791;Sports plein air;électricité spécifique et chauffage;55;12
+2721;Sports plein air;électricité spécifique et chauffage;59;24
+2745;Sports plein air;électricité spécifique et chauffage;62;24
+2727;Sports plein air;électricité spécifique et chauffage;131;24
+2739;Sports plein air;électricité spécifique et chauffage;141,01;36
+2760;Sports plein air;électricité spécifique et chauffage;177;36
+2731;Sports plein air;électricité spécifique et chauffage;193,79;49
+2841;Sports plein air;électricité spécifique et chauffage;270;60
+2735;Sports plein air;électricité spécifique et chauffage;300;42
+2839;Sports plein air;électricité spécifique et chauffage;359,19;144
+2826;Sports plein air;électricité spécifique et chauffage;816;120
+2707;Sports plein air;électricité spécifique et chauffage;821,5;66
+2699;Sports plein air;électricité spécifique et chauffage;1354,1;54
